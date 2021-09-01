@@ -1,0 +1,50 @@
+body {
+    background-color: bisque;
+}
+
+header, footer, section, nav {
+    border: black 1px solid;
+}
+
+header {
+    background-color: rgb(130, 220, 40);
+    color: hotpink;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    padding: 10px;
+    margin: 0px 20px;
+    border: black 1px solid;
+}
+
+#section1 {
+    background-color: orange;
+}
+
+#section2 {
+    background-color: peru;
+}
+
+.center {
+    text-align: center;
+}
+
+footer {
+    background-color: azure;
+    text-align: center;
+}
+
+img {
+    width: 800px;
+}
+
+main li {
+    text-align: left;
+}
+
+#hero {
+    max-width: 90%;
+    margin: 2em 0px 0px 10em;
+}
